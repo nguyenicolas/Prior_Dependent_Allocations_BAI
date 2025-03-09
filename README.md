@@ -9,4 +9,11 @@ We study the problem of Bayesian fixed-budget best-arm identification (BAI) in s
 
 ## Repository Structure
 This repository is structured as follows
-- ...
+- `MAB.ipynb`
+experiments on synthetic multi-armed bandit problems.
+- `linear.ipynb`
+experiments on synthetic linear bandit problems.
+- `hierarchical.ipynb`
+experiments on synthetic hierarchical bandit problems.
+- `movieles.ipynb`
+experiments on movielens data.
