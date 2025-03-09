@@ -1,5 +1,5 @@
 # Prior Dependent Allocations Bayesian BAI
-Code and numerical experiments for the paper [Prior-Dependent Allocations for Bayesian Fixed-Budget Best-Arm Identification in Structured Bandits](https://arxiv.org/pdf/2402.05878) (AISTATS 2025)
+Code and numerical experiments for the paper [Prior-Dependent Allocations for Bayesian Fixed-Budget Best-Arm Identification in Structured Bandits](https://arxiv.org/pdf/2402.05878) (AISTATS 2025).
 
 Nicolas Nguyen, Imad Aouali, András György, Claire Vernade.
 
