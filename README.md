@@ -17,3 +17,6 @@ experiments on synthetic linear bandit problems.
 experiments on synthetic hierarchical bandit problems.
 - `movieles.ipynb`
 experiments on movielens data.
+
+## Contact
+If any question contact nguyennicolasviet@gmail.com.
