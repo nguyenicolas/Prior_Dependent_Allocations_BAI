@@ -17,7 +17,7 @@ experiments on synthetic multi-armed bandit problems.
 experiments on synthetic linear bandit problems.
 - `hierarchical.ipynb`
 experiments on synthetic hierarchical bandit problems.
-- `movieles.ipynb`
+- `MovieLens.ipynb`
 experiments on movielens data.
 
 ## Contact
